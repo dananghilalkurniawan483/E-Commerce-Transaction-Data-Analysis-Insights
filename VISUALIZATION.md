@@ -6,7 +6,7 @@
 ![Total Transaksi](https://github.com/user-attachments/assets/bcc933b9-0f21-496f-a2c7-3ea2a2980928)
 
 ### Distribusi transaksi per kategori produk  
-![Transaksi Per Kategori](https://github.com/user-attachments/assets/fb3f6a42-e1c0-4aa5-aa52-c38137c5816f)
+![Screenshot 2025-06-06 at 7 03 53 PM](https://github.com/user-attachments/assets/e0989a3f-cc6e-4e8f-9746-52a18cac9e86)
 
 ### Distribusi Metode Pembayaran  
 ![Metode Pembayaran](https://github.com/user-attachments/assets/53fbf3f5-6873-4daa-aaeb-c0d8c6f37079)
